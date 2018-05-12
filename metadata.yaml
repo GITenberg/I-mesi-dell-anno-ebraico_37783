@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39060'
     url: http://www.gutenberg.org/2009/agents/39060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37783#I-mesi-dell-anno-ebraico
 gutenberg_bookshelf: IT Religione e Spiritualità
 gutenberg_issued: '2011-10-17'
 gutenberg_type: Text
